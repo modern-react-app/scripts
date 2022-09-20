@@ -1,2 +1,3 @@
-# modern-react-scripts
-Scripts and configuration used by @create-modern-react-app
+# Modern React App Scripts
+
+Scripts and configuration used by [@modern-react-app/create](https://github.com/modern-react-app/create)

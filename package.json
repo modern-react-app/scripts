@@ -1,0 +1,17 @@
+{
+  "name": "@modern-react-app/scripts",
+  "version": "0.0.1",
+  "description": "Scripts and configuration used by @modern-react-app/create",
+  "main": "index.js",
+  "scripts": {
+  },
+  "keywords": [
+    "@modern-react-app",
+    "modern-react-app",
+    "@modern-react-app/create",
+    "@modern-react-app/scripts",
+    "react"
+  ],
+  "author": "Ahmed Kamal <info@ahmedmkamal.com> (https://ahmedmkamal.com)",
+  "license": "MIT"
+}
