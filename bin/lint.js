@@ -2,4 +2,6 @@
 
 "use strict";
 
-console.log("lint!");
+exports.run = function run() {
+  console.log("lint!");
+}

@@ -1,15 +1,10 @@
 {
   "name": "@modern-react-app/scripts",
-  "version": "0.0.2",
+  "version": "0.0.7",
   "description": "Scripts and configuration used by @modern-react-app/create",
   "main": "index.js",
   "bin": {
-    "start": "bin/start.js",
-    "build": "bin/build.js",
-    "preview": "bin/preview.js",
-    "test": "bin/test.js",
-    "lint": "bin/lint.js",
-    "eject": "bin/eject.js"
+    "modern-react-scripts": "bin/modern-react-scripts.js"
   },
   "scripts": {
   },

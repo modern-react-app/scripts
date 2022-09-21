@@ -2,4 +2,6 @@
 
 "use strict";
 
-console.log("build!");
+exports.run = function run() {
+  console.log("build!");
+}

@@ -2,4 +2,6 @@
 
 "use strict";
 
-console.log("preview!");
+exports.run = function run() {
+  console.log("preview!");
+}

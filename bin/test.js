@@ -2,4 +2,6 @@
 
 "use strict";
 
-console.log("test!");
+exports.run = function run() {
+  console.log("test!");
+}
